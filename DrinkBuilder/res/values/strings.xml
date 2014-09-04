@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Login/Account creation screen -->
+    <string name="signIn">Sign In</string>
+    <string name="submit">Submit</string>
+    <string name="orText">Or</string>
+    <string name="createAccount">Create Account</string>
+    <string name="emailHint">Email</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="confirmPasswordHint">Confirm Password</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="changing_fragments">Changing Fragments</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="BMO">Hi! I am BMO! I will help you LOGIN! YAY :D</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="enterEmail">Enter Your Email Address!</string>
+    <string name="start">Start!</string>
+    <string name="title_activity_the_fridge">TheFridge</string>
+    <string name="welcome">Welcome to DrinkBuilder™</string>
+    <string name="choose">Choose Your Booze.</string>
+
+</resources>
